@@ -1,4 +1,4 @@
-# 📏 My Fabric Calculator for WooCommerce
+# 📏  Fabric Calculator for WooCommerce
 
 A powerful WooCommerce plugin to sell products by length (meter & centimeter) with inventory control.
 
